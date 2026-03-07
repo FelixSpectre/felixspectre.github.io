@@ -19,7 +19,7 @@ Homepage: https://github.com/akemin-dayo/AppSync
 Description: A command-line IPA app installer.
 Tag: role::enduser, purpose::console
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+Depiction: https://web.archive.org/web/20221220144837/https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: appinst (App Installer)
 
 Package: ai.akemi.appinst
@@ -43,7 +43,7 @@ Homepage: https://github.com/akemin-dayo/AppSync
 Description: A command-line IPA app installer.
 Tag: role::enduser, purpose::console
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appinst
+Depiction: https://web.archive.org/web/20221220144837/https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: appinst (App Installer)
 
 Package: ai.akemi.appsyncunified
@@ -64,7 +64,7 @@ Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Depiction: https://web.archive.org/web/20221220144837/https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
 Package: ai.akemi.appsyncunified
@@ -85,5 +85,5 @@ Section: Tweaks
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Depiction: https://web.archive.org/web/20221220144837/https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
