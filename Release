@@ -1,5 +1,5 @@
-Origin: Felix's Stuff
-Label: Felix's Stuff
+Origin: Your Repo Name
+Label: Your Repo Name
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -7,14 +7,14 @@ Architectures: iphoneos-arm
 Components: main
 Description: Static architecture manifest mapping suite indices.
 MD5Sum:
- 92b53d7e014f6fc7a66bcd60b271dbbf 444 Packages
- 4e8737d2fd52e6750def2cb9a8fd5426 340 Packages.gz
- 4e8737d2fd52e6750def2cb9a8fd5426 340 Packages.bz2
+ fcb30df0e6135c8dd655f0f6552e0ef4 1312 Packages
+ 37b47d6c4ab8c0f19cc35bae8dee99a5 710 Packages.gz
+ 37b47d6c4ab8c0f19cc35bae8dee99a5 710 Packages.bz2
 SHA1:
- 3ab245f5b6d473f1046531e567ab6cf47e11ae6a 444 Packages
- 87f1c782245461f416a14b662980fc6d091e4879 340 Packages.gz
- 87f1c782245461f416a14b662980fc6d091e4879 340 Packages.bz2
+ 78eb927d105b828730df8033676b46e5f949ea7e 1312 Packages
+ 873b4082ac39dfe084c04af602a63ae64947ef98 710 Packages.gz
+ 873b4082ac39dfe084c04af602a63ae64947ef98 710 Packages.bz2
 SHA256:
- b9ff11152586267fb8a4081458efad2bfca5fec5cf17e0c7f72cef5ad008600b 444 Packages
- 7bd25e79fb77fc79fd33deb2ee016a9932dd94d9c0cfda37d9c7d74e4babc66c 340 Packages.gz
- 7bd25e79fb77fc79fd33deb2ee016a9932dd94d9c0cfda37d9c7d74e4babc66c 340 Packages.bz2
+ 4ac2648036a10283147d901784542d3eacdd9da6768813d384a6db267b58f636 1312 Packages
+ d499ae2d20f3c51c877a1c767e1d8751427e5de8c33d184c6bfd3526d53e9133 710 Packages.gz
+ d499ae2d20f3c51c877a1c767e1d8751427e5de8c33d184c6bfd3526d53e9133 710 Packages.bz2
