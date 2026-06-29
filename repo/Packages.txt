@@ -1,0 +1,38 @@
+Package: com.felixspectrethor.zoom
+Name: Zoom for iOS 8.0
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: repo/debs/Zoom.ipa
+Size: 55360096
+MD5sum: a6a66022cb2efa07fad1cddb6a7a9221
+SHA1: 3148e1b2633b47b8c397f44ef8fdab20c7835ee7
+SHA256: 6770af0f8f4069e686364e8b49dc024e53e268a36363ce9256f3d5222cbb657d
+Section: App
+Description: Public Released
+
+Package: com.booleanmagic.displayrecorder
+Name: Display Recorder (Reupload)
+Version: 1.3.21
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: /repo/debs/cydiastore_com.booleanmagic.displayrecorder_v1.3.22~beta1.deb
+Size: 914570
+MD5sum: c337781a37e78e81958869803fa1095b
+SHA1: b22f79cbacbda918f02152786aa96650b86b38a0
+SHA256: 8115a5c0d537d5a0d59c121d28f113504058663910c3828a9c31905df6ad0897
+Section: App
+Description: Added iOS 9 Support
+
+Package: com.macthemes.axolotl
+Name: Axolotl (iOS 10)
+Version: Beta 1 
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (= 10.0)
+Filename: debs/com.yasakei.axolotl_2511_iphoneos-arm.deb
+Size: 259452
+MD5sum: 6280dee7a0746777dc1c1373ca6acb51
+SHA1: dfdaff06e57ae1e9c775aa7e9c62811ccc6201e2
+SHA256: 41c48be434810cafce7ab983df2e1379dc82d7224fe872385e41c14e173cf2df
+Section: Tweaks
+Description: Fix Whatsapp Login Problem on iOS 10
